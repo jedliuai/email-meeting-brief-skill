@@ -1,0 +1,3 @@
+display_name: Email Meeting Brief
+short_description: Build printable bilingual customer-call briefs from emails.
+default_prompt: Read the customer email or meeting material, preserve the English original, translate it into Chinese, prepare point-by-point answers for the meeting, and create a printable Word brief with layout verification.

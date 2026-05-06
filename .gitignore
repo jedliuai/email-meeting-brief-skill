@@ -1,0 +1,22 @@
+# Local generated artifacts
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.eml
+*.msg
+
+# Temporary render/output folders
+render/
+renders/
+docx_render/
+out/
+tmp/
+temp/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
