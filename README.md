@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 # Email Meeting Brief Skill
 
 A Codex skill for turning customer emails and meeting materials into printable bilingual meeting briefs.
